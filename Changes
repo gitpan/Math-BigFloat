@@ -1,0 +1,11 @@
+Revision history for Perl extension Math::BigFloat.
+
+0.01  Wed Apr  4 12:06:01 2001
+	- original version; created by h2xs 1.21 with options
+		-AXn Math::BigFloat
+	- copied Math::BigFloat out of core installation
+0.02  Wed Apr  4 12:10:01 2001
+	- Fix error with fround/ffround/round code
+	- Add new tests to correspond to problem cases identified
+	- Add fmod() support and tests
+
